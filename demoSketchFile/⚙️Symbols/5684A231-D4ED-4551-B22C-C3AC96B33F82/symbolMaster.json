@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 764,
+  "do_objectID": "5684A231-D4ED-4551-B22C-C3AC96B33F82",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 111,
+    "x": 1094,
+    "y": 1744
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 4
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "95079AE6-D939-452B-9744-3E1B849B9BDA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE6A436D-D50E-4E53-8725-356A85465EA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F76618A-DC05-4268-B79F-A8BEC2C31985"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1A7900F-5E48-416C-AB02-5245D35B60CB"
+    }
+  ],
+  "name": "Button/Small - Right Icon",
+  "nameIsFixed": true,
+  "originalObjectID": "D4757D9C-A824-48B5-9F2A-F7C29007621A",
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E1FCAFFD-802A-4AE6-A987-DAE082BFECD2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
