@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "42BB7E64-1502-4318-8D0B-641323CD4382",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 340,
+    "width": 312,
+    "x": 0,
+    "y": 97
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3142CF10-CF54-457C-86C4-5F2B5E798359"
+    },
+    {
+      "class": "group",
+      "id": "F83B7A08-C248-4272-BEB7-48E7E646AB1A"
+    },
+    {
+      "class": "group",
+      "id": "9DBCC650-064F-48E9-833B-1D96F2532FED"
+    },
+    {
+      "class": "group",
+      "id": "939385ED-A042-4F04-973B-1A8B418E7B2E"
+    }
+  ],
+  "name": "Calendar Dropdown",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbm9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHQcIDxAgISIjJCUmJyszNDU2Nz5CS05RVV1hZWhqVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAHIADXxARU2ltcGxlIERyb3AgRG93bnPTERIKExkfV05TLmtleXNaTlMub2JqZWN0c6UUFRYXGIAEgAWABoAHgAilGhscHR6ACYAKgAuAE4AXgBtaTlNMaWdhdHVyZVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVdOU0NvbG9yEAAjAAAAAAAAAADSCigpKl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgosLzKiLS6ADYAOojAxgA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDIAAAAAAABdT3BlblNhbnMtQm9sZNI4OTo7WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozo8PVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSODk/QF8QEE5TRm9udERlc2NyaXB0b3KiQT1fEBBOU0ZvbnREZXNjcmlwdG9y1UNERQpGR0hJSklaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodF8QD05TTWF4TGluZUhlaWdodIAAgBQjQDgAAAAAAACAFtISCkxNoIAV0jg5T1BXTlNBcnJheaJPPdI4OVJTXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjUlQ9XxAQTlNQYXJhZ3JhcGhTdHlsZdRWV1gKWVpbXFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECgwLjA5NDExNzY0NzA2IDAuMTI1NDkwMTk2MSAwLjE0OTAxOTYwNzgAEAGAGIAa0l4KX2BUTlNJRBABgBnSODliY1xOU0NvbG9yU3BhY2WiZD1cTlNDb2xvclNwYWNl0jg5ZmdXTlNDb2xvcqJmPdI4OTxpojw90jg5a2xfEBJOU0F0dHJpYnV0ZWRTdHJpbmeibT1fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRcHFUcm9vdIABAAgAEQAaACMALQAyADcAVwBdAGQAbQB0AIEAgwCFAIcAmwCiAKoAtQC7AL0AvwDBAMMAxQDLAM0AzwDRANMA1QDXAOIA6QELAR4BJgEoATEBNgFTAVUBVwFeAWEBYwFlAWgBagFsAW4BhAGaAaMBsQG2AcEBygHgAeQB8QH6Af8CEgIVAigCMwI+AkoCXAJuAnACcgJ7An0CggKDAoUCigKSApUCmgK0ArgCywLUAtoC5wL8AycDKQMrAy0DMgM3AzkDOwNAA00DUANdA2IDagNtA3IDdQN6A48DkgOnA7kDvAPBAAAAAAAAAgEAAAAAAAAAcgAAAAAAAAAAAAAAAAAAA8M="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "B73756BC-15F5-43AC-95CC-B270BAEC1609",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 175,
+    "x": 0,
+    "y": -1
+  },
+  "glyphBounds": "{{0, 5}, {174, 19}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "lineSpacingBehaviour": 2,
+  "name": "Simple Drop Downs",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "3253825F-B568-48A8-8EE0-D5C0F5607938"
+  },
+  "textBehaviour": 0
+}

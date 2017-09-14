@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "A05347CB-C3B9-4F31-853F-AA3A749ECF78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 192,
+    "width": 168,
+    "x": 184,
+    "y": 224
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "97821915-92FF-4121-9A7A-EE857B4D727A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1273E7B5-3F2D-4E13-9098-5D64E474A6BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B68C1002-F43D-4784-8D4A-F44D10BA45DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9538F74-1A31-4C6D-9724-D8B1C2433A86"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABC48275-005F-4F9D-8114-06394AD51578"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D41D1AC-3F30-49CE-9B7A-796FE711EF2B"
+    }
+  ],
+  "name": "Button dropdown with icons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

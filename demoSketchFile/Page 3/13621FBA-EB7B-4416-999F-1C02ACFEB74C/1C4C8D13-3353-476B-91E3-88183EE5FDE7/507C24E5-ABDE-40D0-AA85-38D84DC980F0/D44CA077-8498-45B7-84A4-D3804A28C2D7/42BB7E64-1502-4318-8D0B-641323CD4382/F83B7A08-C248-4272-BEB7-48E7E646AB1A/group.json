@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "F83B7A08-C248-4272-BEB7-48E7E646AB1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 240,
+    "width": 280,
+    "x": 16,
+    "y": 92
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "793AB345-00C8-4986-8122-AB69BAE02D35"
+    },
+    {
+      "class": "group",
+      "id": "CB75FE7E-7D41-483E-AE5A-31DC5AD6E9C6"
+    },
+    {
+      "class": "group",
+      "id": "6C5EE6EA-3D1E-41C9-BE95-2EC22A46C116"
+    },
+    {
+      "class": "group",
+      "id": "D88D3F87-327E-43F7-BA00-7EDD95EA9D52"
+    },
+    {
+      "class": "group",
+      "id": "6513C3DF-395D-4B5A-A3B2-00143DFB2DF1"
+    },
+    {
+      "class": "group",
+      "id": "E8528F1C-9885-4AF1-B648-78907F70078E"
+    }
+  ],
+  "name": "Days",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

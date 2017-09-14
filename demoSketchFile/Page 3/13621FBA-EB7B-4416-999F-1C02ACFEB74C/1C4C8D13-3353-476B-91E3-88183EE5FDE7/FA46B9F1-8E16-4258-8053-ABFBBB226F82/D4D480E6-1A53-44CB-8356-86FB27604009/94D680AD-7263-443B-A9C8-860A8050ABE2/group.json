@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "94D680AD-7263-443B-A9C8-860A8050ABE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 360,
+    "x": 0,
+    "y": 40
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6079CC9D-7E57-45A1-A120-4DCF0DE4FFD0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5356FE72-A7EF-4E29-89EE-AFE93C55018A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6B1E8F1-1B6B-470C-B95C-26CD194590D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "635AF5DD-9329-4E0B-AA2D-5B4F250715B7"
+    }
+  ],
+  "name": "Donuts",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "spacing": 24,
+        "type": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

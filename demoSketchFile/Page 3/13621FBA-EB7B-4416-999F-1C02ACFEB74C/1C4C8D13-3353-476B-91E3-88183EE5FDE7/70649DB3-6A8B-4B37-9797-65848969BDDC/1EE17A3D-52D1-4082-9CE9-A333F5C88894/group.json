@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "1EE17A3D-52D1-4082-9CE9-A333F5C88894",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 640,
+    "x": 0,
+    "y": 40
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "35E3DE6A-5CBD-465E-BE45-D1F26D32A56D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A14C9CE9-5A07-4EC3-908B-984C3E6CD989"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "804A1E35-085D-4C5A-8CFB-7CA7E45197FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "02F1DABB-62C0-4FEF-83DC-6BEC7C70FFEA"
+    }
+  ],
+  "name": "Grid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

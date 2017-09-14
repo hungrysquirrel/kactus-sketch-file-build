@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "64E30DE7-B28B-4E5A-8C0A-939AAB095DFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 192,
+    "width": 168,
+    "x": 0,
+    "y": 224
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8239B3E2-A7F1-47C1-8540-C8EDD60A8752"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1D9C34C-4359-4650-8922-9E8CB82DE2DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15F65C6B-5D16-4FCB-80D6-4553014BB270"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF8CD901-FCB7-454E-BED5-3E8E03196CC2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B870380-705C-4FE9-96EB-2CE933312FFE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A0BF1B4-731C-4B7C-8F18-E785CFA3406D"
+    }
+  ],
+  "name": "Button dropdown",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
