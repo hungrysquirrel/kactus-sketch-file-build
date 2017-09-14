@@ -26,7 +26,8 @@
   },
   "pages": [
     "Notes",
-    "Page 3",
+    "components",
+    "styleguide",
     "Button Demo",
     "⚙️Symbols"
   ],

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "23AC8473-73AE-47FF-B44A-06F024E0C2C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 502,
+    "width": 552,
+    "x": 156,
+    "y": 384
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "493F1A6B-E346-497B-8BFC-B7EF98C771BE"
+    },
+    {
+      "class": "group",
+      "id": "EE6FB605-2C0C-4CEE-A3DC-21EA4696C9FB"
+    },
+    {
+      "class": "group",
+      "id": "106B04EB-C5C2-48A0-AAD2-916B21DE499E"
+    },
+    {
+      "class": "group",
+      "id": "2CC718BB-E23D-467B-B384-D9C3795C32D5"
+    },
+    {
+      "class": "group",
+      "id": "50DC245A-AA1F-4818-8441-206485524065"
+    }
+  ],
+  "name": "Text Fields",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

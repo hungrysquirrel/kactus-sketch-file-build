@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGV1hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSs1OT1FRkdISU1RU1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA1VUaXRsZdMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4AJgAuAE1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXTICEKIiMkVU5TUkdCXE5TQ29sb3JTcGFjZU8QKDAuMDk0MTE3NjQ3MDYgMC4xMjU0OTAxOTYxIDAuMTQ5MDE5NjA3OAAQAYAI0iYnKClaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yoigqWE5TT2JqZWN01iwtLgovMDEyMzQjM1tOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodBAEgAAjQEAAAAAAAACACtImJzY3XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjNjgqXxAQTlNQYXJhZ3JhcGhTdHlsZdIKOjs8XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCj5BRKI/QIANgA6iQkOAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOAAAAAAAAF1PcGVuU2Fucy1Cb2xk0iYnSktfEBNOU011dGFibGVEaWN0aW9uYXJ5o0pMKlxOU0RpY3Rpb25hcnnSJidOT18QEE5TRm9udERlc2NyaXB0b3KiUCpfEBBOU0ZvbnREZXNjcmlwdG9y0iYnTFKiTCrSJidUVV8QEk5TQXR0cmlidXRlZFN0cmluZ6JWKl8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFZWlRyb290gAEACAARABoAIwAtADIANwBPAFUAXABlAGwAeQB7AH0AfwCFAIwAlACfAKMApQCnAKkArQCvALEAswC1AL0A0ADyAPkA/wEMATcBOQE7AUABSwFUAVwBXwFoAXUBgQGMAZ4BwAHSAdQB1gHfAeEB5gIAAgQCFwIcAjkCOwI9AkQCRwJJAksCTgJQAlICVAJqAoACiQKXApwCsgK2AsMCyALbAt4C8QL2AvkC/gMTAxYDKwM9A0ADRQAAAAAAAAIBAAAAAAAAAFsAAAAAAAAAAAAAAAAAAANH"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "84D3C065-3F46-4EFB-82EF-8E81A6F30D54",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 137,
+    "x": 188,
+    "y": 591
+  },
+  "glyphBounds": "{{0, 6}, {53, 20}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Title",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "1BBA9337-BA20-47CC-BDC6-2CC37A3E05D8"
+  },
+  "textBehaviour": 1
+}

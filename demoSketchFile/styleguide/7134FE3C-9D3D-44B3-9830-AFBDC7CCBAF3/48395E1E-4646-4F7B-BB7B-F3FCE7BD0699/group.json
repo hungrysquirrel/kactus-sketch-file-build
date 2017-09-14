@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "48395E1E-4646-4F7B-BB7B-F3FCE7BD0699",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 264,
+    "x": 1020,
+    "y": 672
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EF109858-2E4D-4099-BF93-DC9D7C8CE4CE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B069FBFB-F4F3-4387-9AF2-C1F3E8D91EAC"
+    },
+    {
+      "class": "text",
+      "id": "84CAD499-2DEC-45C3-AF7B-ACC5BDF994F3"
+    },
+    {
+      "class": "text",
+      "id": "E4C61ED8-2CA9-4964-ADD7-290EF11F94A4"
+    }
+  ],
+  "name": "Accent 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

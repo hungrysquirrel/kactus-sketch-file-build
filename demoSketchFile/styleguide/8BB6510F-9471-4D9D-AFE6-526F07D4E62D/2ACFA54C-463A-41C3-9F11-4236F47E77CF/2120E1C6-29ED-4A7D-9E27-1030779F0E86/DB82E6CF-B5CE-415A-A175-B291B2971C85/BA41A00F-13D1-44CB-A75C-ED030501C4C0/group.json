@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "BA41A00F-13D1-44CB-A75C-ED030501C4C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 210,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4D96A41C-F3C2-40EE-BA66-A779CF215843"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "155AED40-2CB4-4DCD-9D0A-D3E9950C37ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC9899BC-A5B1-483F-87EA-97CAF8374FC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6469D4D-DA1E-488E-AE9C-4857EECEC278"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA7D07AB-944A-4941-AF97-6A3344D13A36"
+    }
+  ],
+  "name": "Simple Badge",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 5,
+        "spacing": 8,
+        "type": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "4199A43A-6500-4D3F-99D7-5D0144CD804B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 189,
+    "x": 0,
+    "y": 82
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F3145047-7D0C-4AC5-82F3-3007F0CF0175"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97F84792-7A09-4F70-B28D-EC7F5032B50C"
+    }
+  ],
+  "name": "Tooltip - Light",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
